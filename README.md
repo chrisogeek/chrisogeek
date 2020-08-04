@@ -1,11 +1,11 @@
-### Hi 👋  Welcome to my Github
+### Hi, I'm Christian :dragon_face:
 
 ![](https://github.com/chrisogeek/chrisogeek/blob/master/giphy.gif)
 
-Hello! my name is christian ortiz I am a Product Designer and a Front End Developer. My work is focused on the design of digital products and the convergence between the business idea, the design of interfaces and the code. 
+I'm a Product Designer and a Front End Developer. My work is focused on the design of digital products and the convergence between the business idea, the design of interfaces and the code. 
 
-🚀 [click to see my Behance](https://www.behance.net/christianortiz7)
-📫 [click to see my Linkedin](https://www.linkedin.com/in/christianortiztorres/)
+* 🚀 [click to see my Behance](https://www.behance.net/christianortiz7)
+* 📫 [click to see my Linkedin](https://www.linkedin.com/in/christianortiztorres/)
 
 
 ------------
