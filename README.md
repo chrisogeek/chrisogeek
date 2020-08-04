@@ -1,7 +1,7 @@
 ### Hi, I'm Christian :dragon_face:
 
 <p align="center">
-  <img width="360" height="200" src="https://github.com/chrisogeek/chrisogeek/blob/master/giphy.gif">
+  <img width="340" height="200" src="https://github.com/chrisogeek/chrisogeek/blob/master/giphy.gif">
 </p>
 
 I'm a Product Designer and a Front End Developer. My work is focused on the design of digital products and the convergence between the business idea, the design of interfaces and the code. 
