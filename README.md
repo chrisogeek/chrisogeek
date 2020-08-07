@@ -1,4 +1,4 @@
-### Hi, I'm Christian :dragon_face:
+### Hi, I'm ChriSS :dragon_face:
 
 <p align="center">
   <img width="340" height="200" src="https://github.com/chrisogeek/chrisogeek/blob/master/giphy.gif">
