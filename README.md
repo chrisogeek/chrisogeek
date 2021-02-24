@@ -4,7 +4,7 @@
   <img width="340" height="200" src="https://github.com/chrisogeek/chrisogeek/blob/master/giphy.gif">
 </p>
 
-I'm a UI Designer and Frontend Developer. I love making podcast and videogame streaming. My work is focused on design digital products and the convergence between the business idea, the user interface and the code. 
+I'm a UX/UI Designer and Frontend Developer. I love making podcast and videogame streaming. My work is focused on design digital products and the convergence between the business idea, the user interface and the code. 
 
 * 🚀 [click to see my Behance](https://www.behance.net/christianortiz7)
 * 📫 [click to see my Linkedin](https://www.linkedin.com/in/christianortiztorres/)
